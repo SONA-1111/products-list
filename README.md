@@ -5,3 +5,6 @@ hello there, your task is to add a new column for "quantity", where user can inc
 fork the repository and start working on it.
 
 best of luck.
+
+## Task completed
+Link [https://reactjs-productlist.netlify.app/](https://reactjs-productlist.netlify.app/)
