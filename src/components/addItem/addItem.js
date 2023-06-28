@@ -15,7 +15,7 @@ class addItem extends Component {
 
     handleSubmit = (e) => {
         e.preventDefault()
-        this.props.add(this.state)
+        this.props.add({ ...this.state, quantity: 1 })
         this.setState({
             product: '',
             price: ''
